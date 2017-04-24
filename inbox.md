@@ -158,3 +158,6 @@
 * https://github.com/gbuesing/neural-net-ruby
 * https://github.com/josephwilk/rsemantic
 * https://github.com/openlogic/random-word
+* [`neuroevo`](https://github.com/giuse/neuroevo) - Full neuroevolution setup, including all-ruby implementation of neural networks (feed-forward and recurrent, both fully-connected) and two Natural Evolution Strategy black-box optimization algorithms (xNES and SNES). Based on `NMatrix`.
+* [`simple_ga`](https://github.com/giuse/simple_ga) - basic demo program on Genetic Algorithms
+
