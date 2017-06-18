@@ -33,7 +33,7 @@ important decisions and useful answers you may be interested in.
 :sparkles: Every [contribution](#contributing) is welcome! Add links through pull
 requests or create an issue to start a discussion.
 
-Follow us on [Twitter](https://twitter.com/RubyNLP)
+Follow us on [Twitter](https://twitter.com/NonWebRuby)
 and please spread the word using the `#RubyNLP` hash tag!
 
 <!-- nodoc -->
