@@ -421,6 +421,7 @@ the underlying language.
   Generate strings that match a given regular expression.
 - [verbal_expressions](https://github.com/ryan-endacott/verbal_expressions) -
   Make difficult regular expressions easy.
+- [translit_kit](https://github.com/AnalyzePlatypus/TranslitKit) - Transliterate Hebrew & Yiddish text into Latin characters  
 
 ## Articles, Posts, Talks, and Presentations
 
