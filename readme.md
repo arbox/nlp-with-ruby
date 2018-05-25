@@ -127,6 +127,7 @@ An NLP Pipeline starts with a plain text.
   Legacy Ruby SDK for AlchemyAPI/Bluemix.
 - [wit-ruby](https://github.com/wit-ai/wit-ruby) -
   Ruby client library for the [Wit.ai](https://wit.ai/) Language Understanding Platform.
+- [dialogflow-ruby-client](https://github.com/dialogflow/dialogflow-ruby-client) - Ruby SDK for [Dialogflow](https://dialogflow.com)
 - [wlapi](https://github.com/arbox/wlapi) - Ruby client library for
   [Wortschatz Leipzig](http://wortschatz.uni-leipzig.de/de) web services.
 - [monkeylearn-ruby](https://github.com/monkeylearn/monkeylearn-ruby) - Sentiment
@@ -317,6 +318,7 @@ are often collected in dictionaries.
   Straightforward ruby-based Twitter Bot Framework, using OAuth to authenticate.
 - [lita](https://github.com/litaio/lita) -
   Highly extensible chat operation bot framework written with persistent storage on [Redis](https://redis.io/).
+- [stealth](https://github.com/hellostealth/stealth) - An open source Ruby framework for conversational voice and text chatbots
 
 ## Linguistic Resources
 
