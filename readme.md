@@ -331,7 +331,7 @@ are often collected in dictionaries.
 in pure Ruby or written in other programming languages with appropriate bindings
 for Ruby.
 
-For more up-to-date list please look at the [Awesome ML with Ruby][ml-with-ruby] list.
+For more up-to-date list please look at the [Awesome ML with Ruby][machine-learning-with-ruby] list.
 
 - [rb-libsvm](https://github.com/febeling/rb-libsvm) -
   Support Vector Machines with Ruby.
