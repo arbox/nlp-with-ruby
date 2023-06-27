@@ -233,3 +233,4 @@
 - https://github.com/rovetz/arabic
 - https://github.com/machinio/solrb
 - https://github.com/secryst/secryst
+- https://github.com/alexrudall/ruby-openai
